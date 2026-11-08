@@ -1,2 +1,3 @@
-# .github
-Public profile for ViaOptima Solutions on GitHub.
+# ViaOptima Solutions
+
+This repository maintains the public [ViaOptima Solutions organization profile](profile/README.md).
