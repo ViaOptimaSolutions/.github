@@ -13,10 +13,6 @@
   </p>
 </div>
 
-### Delivery teams, ready for the day
-
-We support delivery programs across Sydney with permanent teams, prepared vehicles and live help when routes change.
-
 | Delivery operations | Fleet readiness | Route support |
 | :--- | :--- | :--- |
 | Permanent teams for ongoing delivery programs and peak periods. | Vehicles and drivers prepared before routes begin. | Day-to-day support when plans change on the road. |
